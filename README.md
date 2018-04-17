@@ -4,7 +4,6 @@ Project 6112 Text to voice assitant
 pip install texttvoice
 
 #python3 setup.py sdist
-#
 #pip install wheel
 #python3 setup.py bdist-wheel
 #twine upload dist/*
